@@ -1,0 +1,39 @@
+@mixin title($font-size: 1.88rem, $font-weight: 300, $color: $blue, $margin: 6.25rem) {
+  $circle-width: 10px;
+
+  margin-top: $margin;
+  font-size: $font-size;
+  font-weight: $font-weight;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  color: $color;
+  display: flex;
+  align-items: center;
+
+  &::after,
+  &::before {
+    content: '';
+    display: block;
+    height: $circle-width;
+    width: $circle-width;
+    background-color: $color;
+    border-radius: $circle-width;
+  }
+
+  &__text {
+    display: flex;
+    align-items: center;
+
+    &::after,
+    &::before {
+      content: '';
+      display: block;
+      width: 3.75rem;
+      height: 0.13rem;
+      background-color: $color;
+    }
+
+    &::after  { margin-lef:   0.63rem; }
+    &::before { margin-right: 0.5rem;  }
+  }
+}

@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'core/settings';
+@import 'core/normalize';
+@import 'core/base';
+@import 'core/mixines';
+
+@import 'pages/layout';
+@import 'pages/home';
+@import 'pages/publication';
+@import 'pages/about';
+@import 'pages/books';
+
+@import 'rwd';
+
+@import 'utilities';

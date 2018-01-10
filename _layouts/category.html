@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<div class="content content--writings">
+  {% assign containsNoEntry = true %}
+  {% for post in site.posts %}
+    {% if post.categories[0] == page.name %}
+      {% assign containsNoEntry = false %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="entry">
+        <h2 class="entry__text">{{ post.title }}</h2>
+        <div class="entry__date">{{ post.date | date: "%B, %Y" }}</div>
+      </a>
+    {% endif %}
+  {% endfor %}
+
+  {% if containsNoEntry %}
+    <div>
+      There's no published stuff in this category. Come back lateur!
+    </div>
+  {% endif %}
+</div>

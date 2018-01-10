@@ -1,0 +1,21 @@
+---
+layout: page
+title: Publications
+---
+
+<div class="content content--books">
+    {% for book in site.books %}
+      <div class="book">
+        <img src="{{ book.cover | prepend: site.baseurl }}" alt="" class="book__cover">
+        <div class="book-info">
+          <h2 class="book-info__title">{{ book.title }}</h2>
+          <p class="book-info__description">{{ book.description }}</p>
+          <div class="book-info__links">
+            <a href="#">Extrait</a>
+            <a href="#">Précommander</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+</div>

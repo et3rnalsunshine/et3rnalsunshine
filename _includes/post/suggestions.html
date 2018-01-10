@@ -1,0 +1,13 @@
+<div class="suggestions">
+  <h1 class="suggestions__title">
+    <span class="suggestions__title__text">SUGGESTIONS</span>
+  </h1>
+
+  <div class="suggestions__content">
+    {% include post/suggestions-list.html category="nouvelles" %}
+    {% include post/suggestions-list.html category="avis-de-lecture" %}
+    {% include post/suggestions-list.html category="essais" %}
+  </div>
+
+  <a href="{{ "/" | prepend: site.baseurl }}" class="nav-link"> Revenir A l'Acceuil </a>
+</div>

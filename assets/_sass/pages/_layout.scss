@@ -1,0 +1,124 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.header {
+  text-transform: uppercase;
+  letter-spacing: 0.25rem;
+  padding-top: 60px;
+}
+
+.logo {
+  color: $black;
+  font-size: 2.5rem;
+  text-align: center;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.menu {
+  font-size: 1.13rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+
+  &__item {
+    color: $black;
+    position: relative;
+
+    &:hover {
+      color: $red;
+    }
+
+    &--active {
+      font-weight: 700;
+      color: $blue;
+    }
+
+    &__text {
+      cursor: pointer;
+      user-select: none;
+    }
+
+    &__list {
+      visibility: hidden;
+      background-color: rgba(255, 255, 255, 0.9);
+      border-radius: 4px;
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      text-align: center;
+      left: -102%;
+      width: 300%;
+      z-index: 9999;
+
+      &--expanded { visibility: visible; }
+
+      a { margin-bottom: 35px; }
+      a:first-child { margin-top: 35px; }
+
+      a {
+        position: relative;
+        color: $gray;
+
+        &:hover {
+          color: $red;
+        }
+
+        &:after {
+          margin-top: 6px;
+          display: block;
+          content: "";
+          width: 2px;
+          height: 20px;
+          background-color: $black;
+          position: absolute;
+          left: 50%;
+        }
+
+        &:first-child:before {
+          left: 50%;
+          top: -25px;
+          position: absolute;
+          display: block;
+          content: "";
+          width: 2px;
+          height: 20px;
+          background-color: $black;
+        }
+
+        &:last-child:after {
+          width: 10px;
+          height: 10px;
+          border-radius: 10px;
+          left: 48.5%;
+        }
+      }
+    }
+  }
+}
+
+.content {
+  flex: 1;
+  margin: 6.25rem 0;
+  max-width: 800px;
+  width: 80%;
+}
+
+.footer {
+  font-weight: 700;
+  font-size: 1rem;
+  color: $white;
+  letter-spacing: 0.13rem;
+  text-align: center;
+  background-color: $black;
+  padding: 1.25rem 0;
+  align-self: stretch;
+  margin-top: 60px;
+}

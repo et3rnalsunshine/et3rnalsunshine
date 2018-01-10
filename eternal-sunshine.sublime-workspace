@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"_s",
+				"_site/"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"ls",
+				"lts\tletter-spacing"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"no",
+				"normalize.css"
+			],
+			[
+				"fw",
+				"fxw-w\tflex-wrap: wrap;"
+			],
+			[
+				"po",
+				"pos:r\tposition:relative"
+			],
+			[
+				"controller",
+				"controllerAs"
+			],
+			[
+				"set",
+				"setupUserObject"
+			],
+			[
+				"is",
+				"isSaved"
+			],
+			[
+				"save",
+				"saveToLocalStorage"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"a",
+				"access.config.js"
+			],
+			[
+				"res",
+				"reset.controller.js"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"moda",
+				"modal"
+			],
+			[
+				"an",
+				"animate.css"
+			],
+			[
+				"con",
+				"connect.controller.js"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"state",
+				"states"
+			],
+			[
+				"event",
+				"eventsAttached"
+			],
+			[
+				"elm",
+				"elm"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"mo",
+				"modal"
+			],
+			[
+				"mode",
+				"modals-container.directive.js"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"modal",
+				"modalRef"
+			],
+			[
+				"sh",
+				"shModalProvider"
+			],
+			[
+				"ct",
+				"ctrl\tng-controller"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"JW",
+				"JWTAuth"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"flex-",
+				"flex-end"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"start",
+				"flex-start"
+			],
+			[
+				"js",
+				"js_dist/"
+			],
+			[
+				"css",
+				"css_dist/"
+			],
+			[
+				"css_",
+				"css_src/"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"atelier-sa",
+				"atelier-savanna.dark.css"
+			],
+			[
+				"s",
+				"styles/"
+			],
+			[
+				"command",
+				"OrganizeMeetupCommand"
+			],
+			[
+				"Command",
+				"CommandBus"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"phpon",
+				"phpinfo"
+			],
+			[
+				"bear",
+				"bear_id"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"angu",
+				"angular-route/"
+			],
+			[
+				"boo",
+				"bootstrap.min.css"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"gulp",
+				"gulp-config.json"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/_sass/_rwd.scss",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/_sass/pages/_publication.scss",
+			"settings":
+			{
+				"buffer_size": 1301,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 321.0,
+		"last_filter": "renam",
+		"selected_items":
+		[
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"ssliq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"ssLiquid",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssswi",
+				"Set Syntax: Swig"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"reanme",
+				"Emmet: Rename Tag"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"ssliqu",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"sslyq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"liquid",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"case ca",
+				"Convert Case: Title Case"
+			],
+			[
+				"eval",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"evalu",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssl",
+				"Set Syntax: LESS"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"reane",
+				"Emmet: Rename Tag"
+			],
+			[
+				"ss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"reana",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: src",
+				"Snippet: Script Tag with src"
+			],
+			[
+				"sssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"origami create",
+				"Origami: Create Pane Above"
+			],
+			[
+				"brows",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sstwi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"construct",
+				"Snippet: function __construct"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"contruct",
+				"Snippet: function __construct"
+			],
+			[
+				"constr",
+				"Snippet: function __construct"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"func",
+				"Snippet: function …"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"packege ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lcose",
+				"File: Close All"
+			],
+			[
+				"browse",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"vlose",
+				"Convert Case: Lower Case"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssasas",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
+		"/Users/motaqui/websites/eternal-sunshine/a-propos.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_layout.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/vendor/bonzo.min.js",
+		"/Users/motaqui/websites/eternal-sunshine/index.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_base.scss",
+		"/Users/motaqui/websites/eternal-sunshine/publications.html",
+		"/Users/motaqui/websites/eternal-sunshine/_books/l-ombre-et-la-lumiere.md",
+		"/Users/motaqui/websites/eternal-sunshine/_books/la-malice.md",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_books.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/main.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_about.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/essais.md",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/book.html",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/head.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/_rwd.scss",
+		"/Users/motaqui/websites/eternal-sunshine/css/main.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_sass/pages/_about.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-welcome-to-jekyll.markdown",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/page.html",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/nouvelles.md",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/revue-livres.md",
+		"/Users/motaqui/websites/eternal-sunshine/categories/revue-livres.md",
+		"/Users/motaqui/websites/eternal-sunshine/categories/essais.md",
+		"/Users/motaqui/websites/eternal-sunshine/categories/nouvelles.md",
+		"/Users/motaqui/websites/eternal-sunshine/categories/revue-films.md",
+		"/Users/motaqui/websites/eternal-sunshine/about.html",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/footer.html",
+		"/Users/motaqui/websites/eternal-sunshine/_site/index.html",
+		"/Users/motaqui/websites/eternal-sunshine/_sass/pages/_publication.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_sass/pages/_layout.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_sass/core/normlize.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_sass/main.scss",
+		"/Users/motaqui/Documents/untitled.twig",
+		"/Users/motaqui/Documents/_head.html",
+		"/Users/motaqui/websites/eternal-sunshine/themes/victorian/layout/index.swig",
+		"/Users/motaqui/websites/eternal-sunshine/themes/victorian/_config.yml",
+		"/Users/motaqui/websites/eternal-sunshine/themes/victorian/layout/layout.swig",
+		"/Users/motaqui/websites/eternal-sunshine/source/_posts/hello-world.md",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/_partial/head.ejs",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/layout.ejs",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/page.ejs",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/_partial/article.ejs",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/README.md",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/package.json",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/_config.yml",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/source/js/script.js",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/Gruntfile.js",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/scripts/fancybox.js",
+		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/index.ejs",
+		"/Users/motaqui/websites/eternal-sunshine/.gitignore",
+		"/Users/motaqui/websites/eternal-sunshine/scaffolds/post.md",
+		"/Users/motaqui/websites/eternal-sunshine/scaffolds/page.md",
+		"/Users/motaqui/websites/eternal-sunshine/scaffolds/draft.md",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/about.html",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/post.html",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/pages/_publication.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_rwd.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/pages/_layout.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/core/_base.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/pages/_home.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/core/_settings.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/core/_mixines.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/main.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_utilities.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/index.html",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_base.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_settings.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_layout.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_home.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_mixines.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_publication.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_header.scss",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/.gitignore",
+		"/Users/motaqui/websites/sophia-boris-elkerdini/README 2.md",
+		"/Users/motaqui/.ssh/sunshine.pub",
+		"/Users/motaqui/websites/sophia-elkerdini/gulpfile.js/dev/default.js",
+		"/Users/motaqui/websites/sophia-elkerdini/gulpfile.js/dev/serve.js",
+		"/Users/motaqui/websites/sophia-elkerdini/.publish/index.html",
+		"/Users/motaqui/Dropbox/address.md",
+		"/Users/motaqui/websites/bookaholics/_config.yml",
+		"/Users/motaqui/websites/bookaholics/_site/assets/main.css",
+		"/Users/motaqui/websites/shatokwa/webpack.config.js",
+		"/Users/motaqui/websites/shatokwa/app/index.js",
+		"/Users/motaqui/websites/shatokwa/app/main.css",
+		"/Users/motaqui/websites/shatokwa/.babelrc",
+		"/Users/motaqui/websites/shatokwa/node_modules/.bin/babylon",
+		"/Users/motaqui/websites/shatokwa/package.json",
+		"/Users/motaqui/websites/shatokwa/package-lock.json",
+		"/Users/motaqui/websites/shatokwa/index.html",
+		"/Users/motaqui/websites/shatokwa/src/index.js",
+		"/Users/motaqui/websites/shatokwa/src/main.css",
+		"/Users/motaqui/websites/shatokwa/dist/index.html",
+		"/Users/motaqui/websites/shatokwa/dist/app.bundle.js",
+		"/Users/motaqui/websites/shatokwa/dist/bundle.js",
+		"/private/tmp/tnt31142/mount/Extra/tnt.nfo",
+		"/private/tmp/tnt31142/mount/Extra/tnt.sfv",
+		"/private/tmp/tnt31142/mount/Extra/rhash",
+		"/Users/motaqui/websites/motaqui/_layouts/page.html",
+		"/Users/motaqui/websites/motaqui/css/main.scss",
+		"/Users/motaqui/websites/motaqui/_layouts/default.html",
+		"/Users/motaqui/websites/motaqui/assets/vendor/ads",
+		"/Users/motaqui/websites/motaqui/_posts/2017-01-03-the-sculptor.md",
+		"/Users/motaqui/websites/motaqui/_sass/normalize.scss",
+		"/Users/motaqui/websites/motaqui/_layouts/post.html",
+		"/Users/motaqui/websites/motaqui/_layouts/category.html",
+		"/Users/motaqui/websites/motaqui/_posts/2017-01-01-something.md",
+		"/Users/motaqui/websites/motaqui/categories/essays.html",
+		"/Users/motaqui/websites/motaqui/categories/books.html",
+		"/Users/motaqui/websites/motaqui/_data/categories.yml",
+		"/Users/motaqui/websites/motaqui/categories/music.html",
+		"/Users/motaqui/websites/motaqui/categories/movies.html",
+		"/Users/motaqui/websites/motaqui/_config.yml",
+		"/Users/motaqui/websites/motaqui/_posts/2015-09-05-understanding.md",
+		"/Users/motaqui/websites/motaqui/.gitignore",
+		"/Users/motaqui/websites/motaqui/about.md",
+		"/Users/motaqui/websites/motaqui/_posts/2017-05-02-the-sculpture.md",
+		"/Users/motaqui/websites/motaqui/_posts/2017-01-01-invisible-man.md",
+		"/Users/motaqui/websites/motaqui/index.md",
+		"/Users/motaqui/websites/motaqui/index.html",
+		"/Users/motaqui/websites/motaqui/a",
+		"/Users/motaqui/websites/motaqui/categories/poetry.html",
+		"/Users/motaqui/websites/motaqui/_site/css/main.css"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 190.0,
+		"where_history":
+		[
+			"",
+			"/Users/motaqui/websites/eternal-sunshine/themes/landscape"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"categories/essais",
+			"%;\n",
+			":not(:last-child)",
+			"&:after:not",
+			":not",
+			"hasAtLeastOne",
+			"containsNoEntry",
+			"layout",
+			";ayout",
+			"categories",
+			"<html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/_sass/_rwd.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/_sass/pages/_publication.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eternal-sunshine.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"publication",
+				"assets/_sass/pages/_publication.scss"
+			],
+			[
+				"mixines",
+				"src/assets/sass/core/_mixines.scss"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"layout.scss",
+				"_sass/layout/_footer.scss"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"base",
+				"_includes/metatags/base.html"
+			],
+			[
+				"project",
+				"_layouts/projects.html"
+			],
+			[
+				"defaut",
+				"_layouts/default.html"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"post.html",
+				"_layouts/post.html"
+			],
+			[
+				"default",
+				"_layouts/default.html"
+			],
+			[
+				"post",
+				"_posts/2015-09-05-understanding.md"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"meta",
+				"_includes/metatags/base.html"
+			],
+			[
+				"layout/post",
+				"_layouts/post.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"projects",
+				"projects.md"
+			],
+			[
+				"layout",
+				"_layouts/about.html"
+			],
+			[
+				"heade",
+				"_includes/header.html"
+			],
+			[
+				"rwd",
+				"_sass/_rwd.scss"
+			],
+			[
+				"projec",
+				"_layouts/projects.html"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
+				"header.",
+				"_sass/layout/_header.scss"
+			],
+			[
+				"post.cs",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"post.scss",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"variable",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"rw",
+				"_sass/_rwd.scss"
+			],
+			[
+				"post.s",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"teaser",
+				"_includes/post/teaser.html"
+			],
+			[
+				"_posts/",
+				"_posts/2015-02-02-blog-name-explained.md"
+			],
+			[
+				"variables",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"va",
+				"src/assets/sass/core/_variables.scss"
+			],
+			[
+				"home",
+				"src/home.html"
+			],
+			[
+				"home.scss",
+				"src/assets/sass/pages/home.scss"
+			],
+			[
+				"lyou",
+				"src/assets/sass/layout/_content.scss"
+			],
+			[
+				"main",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"content",
+				"src/assets/sass/layout/_content.scss"
+			],
+			[
+				"hoe",
+				"src/home.html"
+			],
+			[
+				"ba",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"main.css",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"varia",
+				"src/assets/sass/_variables.scss"
+			],
+			[
+				"packe",
+				"package.json"
+			],
+			[
+				"gulp/style",
+				"gulp/tasks/styles.js"
+			],
+			[
+				"main.scs",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"user.js",
+				"src/app/access/user.js"
+			],
+			[
+				"homecontr",
+				"src/app/home/home.controller.js"
+			],
+			[
+				"access/config",
+				"src/app/access/access.config.js"
+			],
+			[
+				"user",
+				"src/app/access/user.js"
+			],
+			[
+				"connect/",
+				"src/app/access/connect/connect.controller.js"
+			],
+			[
+				"access/user",
+				"src/app/access/user.js"
+			],
+			[
+				"_form",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"modal.con",
+				"src/app/config/modals.config.js"
+			],
+			[
+				"config/moda",
+				"src/app/config/modals.config.js"
+			],
+			[
+				"base.",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"form.css",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"form.cs",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"modal.scs",
+				"src/assets/sass/_modals.scss"
+			],
+			[
+				"container",
+				"src/app/components/modal/modals-container.html"
+			],
+			[
+				"modal.scss",
+				"src/assets/sass/_modals.scss"
+			],
+			[
+				"compo",
+				"src/components.html"
+			],
+			[
+				"fae",
+				"src/app/fake/fake.controller.js"
+			],
+			[
+				"_base",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"_variable",
+				"src/assets/sass/_variables.scss"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"app.js",
+				"public/scripts/app.js"
+			],
+			[
+				"database",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"app/route",
+				"app/Http/routes.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"composer.js",
+				"composer.json"
+			],
+			[
+				"ex7",
+				"src/flex/assets/exp7.css"
+			],
+			[
+				"ex8",
+				"src/flex/assets/exp8.css"
+			],
+			[
+				"exp7",
+				"src/flex/assets/exp7.css"
+			],
+			[
+				"exp6",
+				"src/flex/assets/exp6.css"
+			],
+			[
+				"exp3",
+				"src/flex/assets/exp3.css"
+			],
+			[
+				"bae.css",
+				"src/flex/assets/base.css"
+			],
+			[
+				"exp2",
+				"src/flex/assets/exp2.css"
+			],
+			[
+				"custom",
+				"css/custom.css"
+			],
+			[
+				"sleton",
+				"dist/css/skeleton.css"
+			],
+			[
+				"filenew",
+				"gulpfile.new.js"
+			],
+			[
+				"about.",
+				"about.md"
+			],
+			[
+				"default.sc",
+				"_sass/_default.scss"
+			],
+			[
+				"sc",
+				"_includes/scripting.html"
+			],
+			[
+				"_post",
+				"assets/sass/_post.scss"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"user.php",
+				"app/User.php"
+			],
+			[
+				"dispatchesjobs",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php"
+			],
+			[
+				"public/routes",
+				"public/js/routes.js"
+			],
+			[
+				"routes.",
+				"app/routes.js"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"inde.html",
+				"public/views/index.html"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"gulp-config",
+				"stone-makina/gulp-config.json"
+			],
+			[
+				"package.json",
+				"stone-makina/package.json"
+			],
+			[
+				"index.htl",
+				"src/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

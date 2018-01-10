@@ -1,0 +1,21 @@
+<div class="publication">
+  <div class="publication__type">
+    <div class="publication__type__text">
+      {% case page.categories[0] %}
+        {% when 'avis-de-lecture' %}
+          Un Avis de lecture
+        {% when 'nouvelles' %}
+          Une Nouvelle
+        {% else %} {% comment %} For essays {% endcomment %}
+          Un Essai
+      {% endcase %}
+    </div>
+  </div>
+  <h1 class="publication__title">{{ page.title }}</h1>
+  {% if page.author %}
+    <div class="publication__sub-title">
+      By {{ page.author }}
+    </div>
+  {% endif %}
+  <div class="publication__date">{{ page.date | date: "%B, %Y" }}</div>
+</div>

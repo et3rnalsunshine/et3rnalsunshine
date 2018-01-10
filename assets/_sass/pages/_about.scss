@@ -1,0 +1,45 @@
+.content--about {
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+}
+
+.author {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__photo {
+      width: 350px;
+      height: 350px;
+      border-radius: 350px;
+      background-color: $gray;
+  }
+
+  &__social-media {
+    margin-top: 20px;
+    font-size: 14px;
+    a {
+      text-transform: uppercase;
+      color: $red;
+      letter-spacing: 2px;
+
+      &:not(:last-child) {
+        &:after {
+          content: " •";
+        }
+      }
+
+      &:hover {
+        color: $blue;
+      }
+    }
+  }
+
+}
+
+.about {
+    padding-left: 60px;
+}

@@ -1,0 +1,25 @@
+.title {
+  @include title;
+}
+
+.entry {
+  color: $black;
+
+  letter-spacing: 0.13rem;
+  margin-bottom: 3.75rem;
+  text-align: center;
+  display: block;
+
+  &__text {
+    font-weight: 400;
+    font-size: 1.88rem;
+    margin: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  &__date {
+    font-weight: 300;
+    font-size: 0.88rem;
+    color: $gray;
+  }
+}

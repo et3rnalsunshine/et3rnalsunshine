@@ -1,0 +1,65 @@
+@media (max-width: 500px) {
+  html { font-size: 12px; }
+
+
+  .menu {
+    flex-direction: column;
+    align-items: center;
+
+    &__item {
+      &__list {
+        background-color: $white;
+      }
+    }
+
+    &__item:not(:last-child) {
+      margin-bottom: 1.67rem;
+    }
+  }
+
+  .suggestions {
+    &__content {
+      flex-direction: column;
+    }
+  }
+
+  .publication {
+    &__title {
+      text-align: center;
+      padding: 0 10px;
+    }
+  }
+
+  .list:not(:last-child) {
+    margin-bottom: 1.67rem;
+  }
+
+  .content {
+    &--about {
+      flex-direction: column;
+    }
+  }
+
+  .about {
+    padding-left: 0;
+    padding-top: 60px;
+  }
+
+  .book {
+    flex-direction: column;
+    margin-bottom: 100px;
+
+    .book-info {
+      padding-left: 0;
+
+      &__title {
+          margin-top: 30px;
+          text-align: center;
+      }
+
+      &__links {
+        font-size: 16px;
+      }
+    }
+  }
+}

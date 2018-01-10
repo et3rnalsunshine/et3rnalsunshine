@@ -1,0 +1,111 @@
+.publication {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__type {
+    font-size: 1.13rem;
+    @include title(1.13rem, 700, $blue);
+  }
+
+  &__title {
+    font-size: 1.88rem;
+    letter-spacing: 0.5rem;
+    font-weight: 300;
+    margin-top: 0.88rem;
+    margin-bottom: 0.2rem;
+  }
+
+  &__sub-title {
+    color: $gray;
+    font-size: 1rem;
+    margin-bottom: 0.88rem;
+    /* text-transform: capitalize; */
+
+  }
+
+  &__date {
+    text-align: center;
+    color: $blue;
+    font-size: 0.88rem;
+  }
+}
+
+.content {
+  &--publication {
+    margin-top: 60px;
+    line-height: 30px;
+    font-size: 18px;
+
+    a {
+      color: $red;
+
+      &:hover {
+        color: $blue;
+      }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      text-transform: uppercase;
+      text-align: center;
+    }
+  }
+}
+
+.suggestions {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800%;
+  width: 80%;
+
+  &__title {
+    @include title(1.13rem, 300, $red, 0);
+  }
+
+  &__content {
+    align-self: stretch;
+    display: flex;
+    margin: 3.75rem 0;
+  }
+}
+
+.list {
+  text-align: center;
+  flex: 1;
+
+  &__title {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: $gray;
+    text-transform: uppercase;
+    letter-spacing: 0.38rem;
+    margin-bottom: 1.25rem;
+  }
+
+  &__content {
+    font-size: 1.25rem;
+    font-weight: 300;
+
+    &__item {
+      margin-bottom: 1rem;
+      display: block;
+      color: $black;
+
+      &:hover {
+        color: $red;
+      }
+
+      &--special {
+        font-weight: 600;
+      }
+    }
+  }
+}

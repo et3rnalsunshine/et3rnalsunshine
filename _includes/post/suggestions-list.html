@@ -1,0 +1,24 @@
+<div class="list">
+  <div class="list__title">
+    {% case include.category %}
+      {% when 'avis-de-lecture' %}
+        AVIS DE LECTURE
+      {% when 'nouvelles' %}
+        NOUVELLES
+      {% else %} {% comment %} For essays {% endcomment %}
+        ESSAIS
+    {% endcase %}
+  </div>
+
+  <div class="list__content">
+    {% assign max = 3 %}
+    {% assign index = 1 %}
+    {% for post in site.posts %}
+      {% if post.categories[0] == include.category and index <= max %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="list__content__item"> {{ post.title }} </a>
+        {% assign index = index | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="list__content__item list__content__item--special"> Plus </a>
+  </div>
+</div>
