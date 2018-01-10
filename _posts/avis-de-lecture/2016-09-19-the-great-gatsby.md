@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Great Gatsby"
-Author: F. Scott Fitzgerald 
+author: F. Scott Fitzgerald 
 date:   2016-09-19
 categories: avis-de-lecture
 ---
