@@ -9,6 +9,9 @@ layout: page
       {% assign containsNoEntry = false %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="entry">
         <h2 class="entry__text">{{ post.title }}</h2>
+        {% if post.author %}
+          <h3 class="entry__sub-text">By {{ post.author }}</h3>
+        {% endif %}
         <div class="entry__date">{{ post.date | date: "%B, %Y" }}</div>
       </a>
     {% endif %}

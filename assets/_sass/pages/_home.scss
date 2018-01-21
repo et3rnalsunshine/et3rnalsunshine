@@ -15,6 +15,14 @@
     font-size: 1.88rem;
     margin: 0;
     margin-bottom: 0.5rem;
+
+  }
+
+  &__sub-text {
+    color: $gray;
+    font-size: 1rem;
+    margin-top: 0;
+    font-weight: 500;
   }
 
   &__date {

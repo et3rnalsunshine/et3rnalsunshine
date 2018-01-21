@@ -1,6 +1,18 @@
+@media (max-width: 800px) {
+  .content {
+    &--about {
+      flex-direction: column;
+    }
+  }
+
+  .about {
+    padding-left: 0;
+    padding-top: 60px;
+  }
+}
+
 @media (max-width: 500px) {
   html { font-size: 12px; }
-
 
   .menu {
     flex-direction: column;
@@ -32,17 +44,6 @@
 
   .list:not(:last-child) {
     margin-bottom: 1.67rem;
-  }
-
-  .content {
-    &--about {
-      flex-direction: column;
-    }
-  }
-
-  .about {
-    padding-left: 0;
-    padding-top: 60px;
   }
 
   .book {

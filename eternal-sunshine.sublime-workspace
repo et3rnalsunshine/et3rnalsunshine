@@ -275,23 +275,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "assets/_sass/_rwd.scss",
-			"settings":
-			{
-				"buffer_size": 459,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/_sass/pages/_publication.scss",
-			"settings":
-			{
-				"buffer_size": 1301,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -300,16 +283,56 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 321.0,
-		"last_filter": "renam",
+		"height": 245.0,
+		"last_filter": "rename",
 		"selected_items":
 		[
 			[
-				"renam",
+				"rename",
 				"Emmet: Rename Tag"
 			],
 			[
-				"rename",
+				"p",
+				"Package Control: Disable Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"sstli",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"sstliqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"sstlq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"ssliqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"ssliq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"renam",
 				"Emmet: Rename Tag"
 			],
 			[
@@ -323,18 +346,6 @@
 			[
 				"uper",
 				"Convert Case: Upper Case"
-			],
-			[
-				"lower",
-				"Convert Case: Lower Case"
-			],
-			[
-				"close all",
-				"File: Close All"
-			],
-			[
-				"ssliq",
-				"Set Syntax: HTML (Liquid)"
 			],
 			[
 				"ssLiquid",
@@ -375,10 +386,6 @@
 			[
 				"ssjavasc",
 				"Set Syntax: JavaScript Next"
-			],
-			[
-				"close",
-				"File: Close All"
 			],
 			[
 				"ssliqu",
@@ -585,7 +592,7 @@
 				"Set Syntax: Sass"
 			]
 		],
-		"width": 420.0
+		"width": 452.0
 	},
 	"console":
 	{
@@ -606,36 +613,91 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/motaqui/websites/eternal-sunshine",
+		"/Users/motaqui/websites/eternal-sunshine/_books",
+		"/Users/motaqui/websites/eternal-sunshine/_categories",
+		"/Users/motaqui/websites/eternal-sunshine/_includes",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/layout",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/partials",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/post",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts",
+		"/Users/motaqui/websites/eternal-sunshine/assets",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages",
+		"/Users/motaqui/websites/eternal-sunshine/assets/javascript"
 	],
 	"file_history":
 	[
+		"/Users/motaqui/websites/eternal-sunshine/_books/la-malice.md",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/partials/a-propos.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/_rwd.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/javascript/main.js",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
-		"/Users/motaqui/websites/eternal-sunshine/a-propos.html",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_layout.scss",
-		"/Users/motaqui/websites/eternal-sunshine/assets/vendor/bonzo.min.js",
-		"/Users/motaqui/websites/eternal-sunshine/index.html",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_base.scss",
-		"/Users/motaqui/websites/eternal-sunshine/publications.html",
-		"/Users/motaqui/websites/eternal-sunshine/_books/l-ombre-et-la-lumiere.md",
-		"/Users/motaqui/websites/eternal-sunshine/_books/la-malice.md",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_books.scss",
-		"/Users/motaqui/websites/eternal-sunshine/assets/main.scss",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_about.scss",
-		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
-		"/Users/motaqui/websites/eternal-sunshine/_categories/essais.md",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/book.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/head.html",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/_rwd.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/favicon.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_about.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/favicons/code.txt",
+		"/Users/motaqui/websites/eternal-sunshine/_books/l-ombre-et-la-lumiere.md",
+		"/Users/motaqui/websites/eternal-sunshine/CNAME",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-09-19-the-great-gatsby.md",
+		"/Users/motaqui/websites/eternal-sunshine/.gitignore",
+		"/Users/motaqui/websites/eternal-sunshine/eternal-sunshine.sublime-project",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_layout.scss",
+		"/Users/motaqui/websites/eternal-sunshine/a-propos.html",
+		"/Users/motaqui/websites/eternal-sunshine/index.html",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/post/suggestions-list.html",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_publication.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/post/suggestions.html",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/essais.md",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/avis-de-lecture.md",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/post/title.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
+		"/Users/motaqui/websites/eternal-sunshine/publications.html",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-on-writing-well.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-a-man-without-a-country.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2017-12-05-siddhartha.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2017-11-21-we-should-all-be-feminists.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2017-01-13-the-catcher-in-the-rye.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-12-26-croc-blanc.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-11-04-into-the-wild.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-10-08-le-journal-d-anne-frank.md",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/nouvelles.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/nouvelles/2011-01-01-l-utopie-muette.md",
+		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-04-16-creating-a-universe.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-10-08-le-journal-d-anne-frank.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-09-19-the-great-gatsby.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-26-croc-blanc.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-11-04-into-the-wild.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2017-01-13-the-catcher-in-the-rye.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2017-12-05-siddhartha.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2017-11-21-we-should-all-be-feminists.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-on-writing-well.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-a-man-without-a-country.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-08-10-le-journal-d-anne-frank.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-a-man-without-a-country.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-we-should-all-be-feminists.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-siddhartha.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-01-10-the-great-gatsby.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-05-15-getting-intimate-with-my-characters.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-croc-blanc.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-into-the-wild.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-the-catcher-in-the-rye.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-on-writing-well.md",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_base.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_categories/revue-livres.md",
+		"/Users/motaqui/.Trash/2018-01-03-welcome-to-jekyll.markdown",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-welcome-to-jekyll.markdown",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_books.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/vendor/bonzo.min.js",
+		"/Users/motaqui/websites/eternal-sunshine/assets/main.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/book.html",
 		"/Users/motaqui/websites/eternal-sunshine/css/main.scss",
 		"/Users/motaqui/websites/eternal-sunshine/_sass/pages/_about.scss",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-welcome-to-jekyll.markdown",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/page.html",
-		"/Users/motaqui/websites/eternal-sunshine/_categories/nouvelles.md",
-		"/Users/motaqui/websites/eternal-sunshine/_categories/revue-livres.md",
 		"/Users/motaqui/websites/eternal-sunshine/categories/revue-livres.md",
 		"/Users/motaqui/websites/eternal-sunshine/categories/essais.md",
 		"/Users/motaqui/websites/eternal-sunshine/categories/nouvelles.md",
@@ -664,7 +726,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/Gruntfile.js",
 		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/scripts/fancybox.js",
 		"/Users/motaqui/websites/eternal-sunshine/themes/landscape/layout/index.ejs",
-		"/Users/motaqui/websites/eternal-sunshine/.gitignore",
 		"/Users/motaqui/websites/eternal-sunshine/scaffolds/post.md",
 		"/Users/motaqui/websites/eternal-sunshine/scaffolds/page.md",
 		"/Users/motaqui/websites/eternal-sunshine/scaffolds/draft.md",
@@ -694,53 +755,11 @@
 		"/Users/motaqui/websites/sophia-elkerdini/gulpfile.js/dev/serve.js",
 		"/Users/motaqui/websites/sophia-elkerdini/.publish/index.html",
 		"/Users/motaqui/Dropbox/address.md",
-		"/Users/motaqui/websites/bookaholics/_config.yml",
-		"/Users/motaqui/websites/bookaholics/_site/assets/main.css",
-		"/Users/motaqui/websites/shatokwa/webpack.config.js",
-		"/Users/motaqui/websites/shatokwa/app/index.js",
-		"/Users/motaqui/websites/shatokwa/app/main.css",
-		"/Users/motaqui/websites/shatokwa/.babelrc",
-		"/Users/motaqui/websites/shatokwa/node_modules/.bin/babylon",
-		"/Users/motaqui/websites/shatokwa/package.json",
-		"/Users/motaqui/websites/shatokwa/package-lock.json",
-		"/Users/motaqui/websites/shatokwa/index.html",
-		"/Users/motaqui/websites/shatokwa/src/index.js",
-		"/Users/motaqui/websites/shatokwa/src/main.css",
-		"/Users/motaqui/websites/shatokwa/dist/index.html",
-		"/Users/motaqui/websites/shatokwa/dist/app.bundle.js",
-		"/Users/motaqui/websites/shatokwa/dist/bundle.js",
-		"/private/tmp/tnt31142/mount/Extra/tnt.nfo",
-		"/private/tmp/tnt31142/mount/Extra/tnt.sfv",
-		"/private/tmp/tnt31142/mount/Extra/rhash",
-		"/Users/motaqui/websites/motaqui/_layouts/page.html",
-		"/Users/motaqui/websites/motaqui/css/main.scss",
-		"/Users/motaqui/websites/motaqui/_layouts/default.html",
-		"/Users/motaqui/websites/motaqui/assets/vendor/ads",
-		"/Users/motaqui/websites/motaqui/_posts/2017-01-03-the-sculptor.md",
-		"/Users/motaqui/websites/motaqui/_sass/normalize.scss",
-		"/Users/motaqui/websites/motaqui/_layouts/post.html",
-		"/Users/motaqui/websites/motaqui/_layouts/category.html",
-		"/Users/motaqui/websites/motaqui/_posts/2017-01-01-something.md",
-		"/Users/motaqui/websites/motaqui/categories/essays.html",
-		"/Users/motaqui/websites/motaqui/categories/books.html",
-		"/Users/motaqui/websites/motaqui/_data/categories.yml",
-		"/Users/motaqui/websites/motaqui/categories/music.html",
-		"/Users/motaqui/websites/motaqui/categories/movies.html",
-		"/Users/motaqui/websites/motaqui/_config.yml",
-		"/Users/motaqui/websites/motaqui/_posts/2015-09-05-understanding.md",
-		"/Users/motaqui/websites/motaqui/.gitignore",
-		"/Users/motaqui/websites/motaqui/about.md",
-		"/Users/motaqui/websites/motaqui/_posts/2017-05-02-the-sculpture.md",
-		"/Users/motaqui/websites/motaqui/_posts/2017-01-01-invisible-man.md",
-		"/Users/motaqui/websites/motaqui/index.md",
-		"/Users/motaqui/websites/motaqui/index.html",
-		"/Users/motaqui/websites/motaqui/a",
-		"/Users/motaqui/websites/motaqui/categories/poetry.html",
-		"/Users/motaqui/websites/motaqui/_site/css/main.css"
+		"/Users/motaqui/websites/bookaholics/_config.yml"
 	],
 	"find":
 	{
-		"height": 59.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -756,6 +775,35 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"about",
+			"content",
+			"href=",
+			"href=\"",
+			"\">",
+			">",
+			"et3rnalsunshine",
+			"count",
+			"categories/",
+			"==",
+			"category",
+			"with",
+			"menu__item--expandable",
+			"bonzo(event.target)",
+			"contains",
+			"__type",
+			"__text",
+			"text",
+			"contains",
+			"entry__text",
+			"contains",
+			"délicieux",
+			" ",
+			"l’Homme",
+			"personnes",
+			"honorent",
+			"imbécile",
+			"suicidaire",
+			"revue-livres",
 			"categories/essais",
 			"%;\n",
 			":not(:last-child)",
@@ -784,71 +832,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "assets/_sass/_rwd.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 459,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								121,
-								121
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/_sass/pages/_publication.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/earthsong (SL).tmTheme",
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -901,8 +886,64 @@
 		"selected_items":
 		[
 			[
+				"publications",
+				"assets/_sass/pages/_publication.scss"
+			],
+			[
+				"publca",
+				"publications.html"
+			],
+			[
+				"croc",
+				"_posts/2016-12-12-croc-blanc.md"
+			],
+			[
+				"theca",
+				"_posts/2016-12-12-the-catcher-in-the-rye.md"
+			],
+			[
+				"weshou",
+				"_posts/2016-12-12-we-should-all-be-feminists.md"
+			],
+			[
+				"sit",
+				"_posts/2016-12-12-siddhartha.md"
+			],
+			[
+				"onwe",
+				"_posts/2016-12-12-on-writing-well.md"
+			],
+			[
 				"publication",
 				"assets/_sass/pages/_publication.scss"
+			],
+			[
+				"base",
+				"assets/_sass/core/_base.scss"
+			],
+			[
+				"publica",
+				"publications.html"
+			],
+			[
+				"category.",
+				"_layouts/category.html"
+			],
+			[
+				"setting",
+				"assets/_sass/core/_settings.scss"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"layout.css",
+				"assets/_sass/pages/_layout.scss"
+			],
+			[
+				"book",
+				"assets/_sass/pages/_books.scss"
 			],
 			[
 				"mixines",
@@ -919,10 +960,6 @@
 			[
 				"index.",
 				"index.html"
-			],
-			[
-				"base",
-				"_includes/metatags/base.html"
 			],
 			[
 				"project",
@@ -951,10 +988,6 @@
 			[
 				"post",
 				"_posts/2015-09-05-understanding.md"
-			],
-			[
-				"config",
-				"_config.yml"
 			],
 			[
 				"meta",
@@ -1317,7 +1350,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 350.0,
+	"side_bar_width": 367.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -4,12 +4,12 @@
     <div class="menu__item menu__item--expandable {% if page.url contains "/essais" or page.url contains "/nouvelles" or page.url contains "/avis-de-lecture" %}menu__item--active{% endif %}">
         <div class="menu__item__text">Ecrits</div>
         <div class="menu__item__list">
-            <a href="{{ "/categories/nouvelles" | prepend: site.baseurl }}">Nouvelles</a>
-            <a href="{{ "/categories/essais" | prepend: site.baseurl }}">Essais</a>
-            <a href="{{ "/categories/avis-de-lecture" | prepend: site.baseurl }}">Avis De Lecture</a>
+            <a href="{{ "/categories/nouvelles.html" | prepend: site.baseurl }}">Nouvelles</a>
+            <a href="{{ "/categories/essais.html" | prepend: site.baseurl }}">Essais</a>
+            <a href="{{ "/categories/avis-de-lecture.html" | prepend: site.baseurl }}">Avis De Lecture</a>
         </div>
     </div>
-    <a href="{{ "/publications" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/publications" %}menu__item--active{% endif %}">Publications</a>
-    <a href="{{ "/a-propos" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/a-propos" %}menu__item--active{% endif %}">À propos</a>
+    <a href="{{ "/publications.html" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/publications" %}menu__item--active{% endif %}">Publications</a>
+    <a href="{{ "/a-propos.html" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/a-propos" %}menu__item--active{% endif %}">À propos</a>
   </div>
 </header>
