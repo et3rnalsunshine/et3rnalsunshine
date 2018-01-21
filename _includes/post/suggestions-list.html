@@ -5,7 +5,7 @@
         AVIS DE LECTURE
       {% when 'nouvelles' %}
         NOUVELLES
-      {% else %} {% comment %} For essays {% endcomment %}
+      {% else %}
         ESSAIS
     {% endcase %}
   </div>
@@ -19,6 +19,17 @@
         {% assign index = index | plus: 1 %}
       {% endif %}
     {% endfor %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="list__content__item list__content__item--special"> Plus </a>
+    <a
+      {% case include.category %}
+        {% when 'avis-de-lecture' %}
+          href="{{ "/categories/avis-de-lecture.html" | prepend: site.baseurl }}"
+        {% when 'nouvelles' %}
+          href="{{ "/categories/nouvelles.html" | prepend: site.baseurl }}"
+        {% else %}
+          href="{{ "/categories/essais.html" | prepend: site.baseurl }}"
+      {% endcase %}
+      class="list__content__item list__content__item--special">
+      Plus
+    </a>
   </div>
 </div>
