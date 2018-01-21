@@ -11,8 +11,8 @@ title: Publications
           <h2 class="book-info__title">{{ book.title }}</h2>
           <p class="book-info__description">{{ book.description }}</p>
           <div class="book-info__links">
-            <a href="#">Extrait</a>
-            <a href="#">Précommander</a>
+            <a target="_blank" href="{{ site.baseurl }}/assets/book-excerpts/{{ book.excerpt }}">Extrait</a>
+            {% comment %}<a href="#">Précommander</a>{% endcomment %}
           </div>
         </div>
       </div>
