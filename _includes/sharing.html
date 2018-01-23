@@ -10,7 +10,7 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="article:author" content="{{ site.facebook }}" />
+<meta property="article:author" content="{{ site.facebookID }}" />
 {% for tag in site.keywords %}
     <meta property="article:tag" content="{{ tag }}">
 {% endfor %}
