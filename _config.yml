@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   La complexité de ses émotions, la fragilité de ses idéaux
   et les contradictions qui l’habitent sans porter atteinte à son bon sens.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sophiaboriselkerdini.com/" # the base hostname & protocol for your site
+url: "http://sophiaboriselkerdini.com" # the base hostname & protocol for your site
 cover: /assets/images/covers/cover.png
 
 # Build settings
