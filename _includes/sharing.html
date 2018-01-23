@@ -5,12 +5,12 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:title" content="{{ title }}">
 <meta property="og:image" content="{{ cover }}">
-{% if page.categories.size == 0 %}
+{% if page.categories.size %}
     <meta property="og:description" content="{{ site.description }}">
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="article:author" content="{{ site.facebook }}" />
-{% for tag in page.tags %}
+{% for tag in site.keywords %}
     <meta property="article:tag" content="{{ tag }}">
 {% endfor %}
