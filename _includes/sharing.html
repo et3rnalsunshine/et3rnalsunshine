@@ -1,0 +1,15 @@
+{% capture title %}{% if page.title %}{{ page.title }} &raquo; {% endif %}{{ site.title }}{% endcapture %}
+{% capture cover %}{{ site.url }}{{ site.cover }}{% endcapture %}
+{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:title" content="{{ title }}">
+<meta property="og:image" content="{{ cover }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="article:author" content="{{ site.facebook }}" />
+{% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+{% endfor %}
