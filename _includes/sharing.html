@@ -5,7 +5,7 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:title" content="{{ title }}">
 <meta property="og:image" content="{{ cover }}">
-{% if page.categories.size %}
+{% if page.categories.size %}{% else %}
     <meta property="og:description" content="{{ site.description }}">
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
