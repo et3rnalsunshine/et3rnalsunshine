@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orgueil et préjugés"
+title: "Orgueil et Préjugés"
 author: Jane Austen
 date: 2018-08-08
 categories: avis-de-lecture

@@ -284,9 +284,13 @@
 	"command_palette":
 	{
 		"height": 245.0,
-		"last_filter": "rename",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ssli",
+				"Set Syntax: HTML (Liquid)"
+			],
 			[
 				"rename",
 				"Emmet: Rename Tag"
@@ -614,17 +618,16 @@
 	"expanded_folders":
 	[
 		"/Users/motaqui/websites/eternal-sunshine",
-		"/Users/motaqui/websites/eternal-sunshine/_includes",
-		"/Users/motaqui/websites/eternal-sunshine/_includes/partials",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts",
-		"/Users/motaqui/websites/eternal-sunshine/assets",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages",
-		"/Users/motaqui/websites/eternal-sunshine/assets/javascript"
+		"/Users/motaqui/websites/eternal-sunshine/_posts",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture"
 	],
 	"file_history":
 	[
+		"/Users/motaqui/websites/eternal-sunshine/_includes/analytics.html",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-on-writing-well.md",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-08-08-orgueil-et-prejuges.md",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/sharing.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/head.html",
 		"/Users/motaqui/Documents/Memories/Brown box/Drafts/your-tweenty-fifth-birthday.md",
@@ -632,7 +635,6 @@
 		"/Users/motaqui/Documents/Memories/Brown box/Drafts/airplan-thoughts.md",
 		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/partials/a-propos.html",
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
 		"/Users/motaqui/websites/eternal-sunshine/publications.html",
@@ -642,7 +644,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/_rwd.scss",
 		"/Users/motaqui/websites/eternal-sunshine/assets/javascript/main.js",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/favicon.html",
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_about.scss",
 		"/Users/motaqui/websites/eternal-sunshine/assets/favicons/code.txt",
@@ -659,7 +660,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/_categories/essais.md",
 		"/Users/motaqui/websites/eternal-sunshine/_categories/avis-de-lecture.md",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/post/title.html",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-on-writing-well.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-a-man-without-a-country.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2017-12-05-siddhartha.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2017-11-21-we-should-all-be-feminists.md",
@@ -750,13 +750,11 @@
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_mixines.scss",
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_publication.scss",
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_header.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/.gitignore",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/README 2.md",
-		"/Users/motaqui/.ssh/sunshine.pub"
+		"/Users/motaqui/websites/sophia-boris-elkerdini/.gitignore"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -772,6 +770,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"categories",
 			",",
 			"if",
 			"about",
@@ -838,7 +837,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -875,7 +874,7 @@
 	"project": "eternal-sunshine.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
