@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'Épouvanteur."
+title:  "L'Épouvanteur"
 author: Joseph Delaney 
 date:   2018-09-07
 categories: avis-de-lecture
