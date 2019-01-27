@@ -170,7 +170,7 @@ Je me lève et m’assieds à son chevet.
 
 – Deviens plus puissante. 
 
-– Elle… je la hai
+– Elle… je la hais.
 
 – Alors, hais-la. Mais ne cède pas. Elle continuera à gagner de temps à autre. N’abandonne pas pour autant. Ne lâche pas… continue à te battre. 
 

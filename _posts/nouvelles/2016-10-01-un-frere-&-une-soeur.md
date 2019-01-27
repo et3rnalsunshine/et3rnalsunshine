@@ -15,7 +15,7 @@ Combien de fois t’ai-je répété cette promesse, encore et encore ? J’aimer
 
 Mais aujourd’hui, tu n’es plus là. Et je suis condamnée à vivre avec mes remords, tel un serpent venimeux qui s’amuse à me mordre chaque fois que ton nom traverse ma mémoire rayée. C’est-à-dire, chaque fois que je respire. 
 
- – Sophia, tu viens ?
+ – Mina, tu viens ?
 
 La voix de mon camarade me tire de ma réflexion sordide. Comme à son habitude, il est en retard et je l’avais attendu pour prendre le bus. Et comme d’habitude, à force de l’avoir attendu, j’ai vu le bus passer sans finalement prendre aucun de nous deux.
 
@@ -23,13 +23,13 @@ Je ne suis pas une bonne amie. C’est juste que marcher me fait du bien. Alors,
 
 Je regarde le ciel en soupirant. Encore une autre journée. Une autre journée sans toi.
 
- – Tu as entendu la dernière nouvelle ? me demande mon camarade.
+ – T'as entendu la dernière nouvelle ? me demande mon camarade.
 
 Je fais mine de m’intéresser aux informations juteuses qu’il est fier de connaitre. Il déballe le tout à la moindre précision, en prenant soin de faire les pauses nécessaires là où il faut pour rendre l’annonce plus attrayante. 
 
 Toutes des nouvelles d’un monde fade, creux, absurde. Un monde sans toi pour le peupler, le ranimer, l’empêcher de fondre. Ce monde tel qu’il est aujourd’hui ne m’intéresse plus. Je t’avais promis. 
 
- – Tu nous accompagnes pour les répétitions ? enchaîne mon camarade. On en a encore pour toute la semaine.
+ – Tu nous accompagnes pour les répét' ? enchaîne mon camarade. On en a encore pour toute la semaine !
 
 Marcher me fait du bien. Le mouvement consume moins rapidement ma respiration et donne une nouvelle chorégraphie à mon corps usé de spasmes nocturnes. 
 
@@ -117,7 +117,7 @@ Il ne me quitte plus. Il me regarde, tu me regardes. Son expression te ressemble
 
 Non. Aujourd’hui, il est trop tard. 
 
- – TROP TARD, je crie. 
+ – TROP TARD ! je crie. 
 
 Le chaton ne s’enfuit pas. Il me regarde me déchaîner contre les parois de ma réflexion pitoyable. Il observe ma honte, ma repentance lamentable. Il considère les ruines de ton absence et la nostalgie d’un futur avorté par ma stupidité.
 
@@ -127,4 +127,4 @@ Pardonne-moi petit frère.
 
 Le chaton écoute les plaintes de mon cœur et assiste à mon repentir. Il me sourit. Deux fossettes. Je lui souris. Il te ressemble.
 
- – Rentrons chez nous, je lui dis.
+ – Rentrons chez nous, lui dis-je.

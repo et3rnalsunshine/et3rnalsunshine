@@ -6,7 +6,7 @@ categories: essais
 ---
 
 
->Tu as tout à apprendre, tout ce qui ne s'apprend pas : la solitude, l'indifférence, la patience, le silence. – **Georges Perec**, _Un homme qui dort_
+>Tu as tout à apprendre, tout ce qui ne s'apprend pas : la solitude, l'indifférence, la patience, le silence. – **Georges Perec**, _Un homme qui dort_.
 
 Lorsqu’on lit c’est d’abord une posture. Debout, assis ou allongé, c’est d’abord un corps qui s’installe, qui devient passif, presque inerte, auquel on impose une quasi immobilité pour déployer, étendre, d’autres parties de son être ; autrement dit : son esprit et son âme. 
 Ensuite, au-delà d’une première résistance, patiemment, peu à peu nous lâchons prise, nous nous détachons de la conscience de notre corps -comme on éplucherait une orange, pour que notre esprit en soit délivré, soulagé, indépendant. C’est alors que l’on se retrouve devant soi, en soi, sans voile. On est seul, notre âme mise à nu. Et on s’enfonce dans un néant vierge pour recevoir les paroles du livre que l’on tient entre les mains.
