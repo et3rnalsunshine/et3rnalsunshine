@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Toi, moi et elle
+title:  Toi, Moi et Elle
 date:   2017-11-02
 categories: nouvelles
 ---

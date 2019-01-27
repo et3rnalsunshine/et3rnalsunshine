@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Un frère & une soeur"
+title:  "Un Frère & une Soeur"
 date:   2016-10-01
 categories: nouvelles
 ---
