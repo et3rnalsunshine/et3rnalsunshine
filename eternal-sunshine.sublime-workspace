@@ -275,6 +275,42 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/nouvelles/2016-10-01-un-frere-&-une-soeur.md",
+			"settings":
+			{
+				"buffer_size": 6836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/nouvelles/2017-11-02-toi-moi-et-elle.md",
+			"settings":
+			{
+				"buffer_size": 12115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/nouvelles/2018-04-09-les-voyageurs.md",
+			"settings":
+			{
+				"buffer_size": 23696,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/nouvelles/2011-01-01-l-utopie-muette.md",
+			"settings":
+			{
+				"buffer_size": 20620,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -287,6 +323,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
 			[
 				"ssli",
 				"Set Syntax: HTML (Liquid)"
@@ -378,10 +434,6 @@
 			[
 				"clo",
 				"File: Close All"
-			],
-			[
-				"upper",
-				"Convert Case: Upper Case"
 			],
 			[
 				"uperca",
@@ -618,32 +670,43 @@
 	"expanded_folders":
 	[
 		"/Users/motaqui/websites/eternal-sunshine",
-		"/Users/motaqui/websites/eternal-sunshine/_posts",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture"
+		"/Users/motaqui/websites/eternal-sunshine/_posts"
 	],
 	"file_history":
 	[
+		"/Users/motaqui/websites/motaqui-prototype/README.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-11-28-eragon.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/nouvelles/2011-01-01-l-utopie-muette.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/nouvelles/2017-11-02-toi-moi-et-elle.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-10-07-lepouvanteur.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-09-07-la-joueuse-de-go.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/essais/2019-01-23-entre-lecture-et-solitude.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/essais/2018-06-23-apprendre-a-ecrire-pourquoi.md",
+		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_layout.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
+		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
+		"/Users/motaqui/websites/eternal-sunshine/_layouts/page.html",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-08-08-orgueil-et-prejuges.md",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_base.scss",
+		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/essais/2016-04-16-creating-a-universe.md",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/analytics.html",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-01-03-on-writing-well.md",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-08-08-orgueil-et-prejuges.md",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/sharing.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/head.html",
 		"/Users/motaqui/Documents/Memories/Brown box/Drafts/your-tweenty-fifth-birthday.md",
 		"/Users/motaqui/Documents/Memories/Brown box/Drafts/letter.md",
 		"/Users/motaqui/Documents/Memories/Brown box/Drafts/airplan-thoughts.md",
-		"/Users/motaqui/websites/eternal-sunshine/_config.yml",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/post.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/partials/a-propos.html",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_settings.scss",
 		"/Users/motaqui/websites/eternal-sunshine/publications.html",
 		"/Users/motaqui/websites/eternal-sunshine/a-propos.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/metadata.html",
 		"/Users/motaqui/websites/eternal-sunshine/_books/la-malice.md",
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/_rwd.scss",
 		"/Users/motaqui/websites/eternal-sunshine/assets/javascript/main.js",
-		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/favicon.html",
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_about.scss",
 		"/Users/motaqui/websites/eternal-sunshine/assets/favicons/code.txt",
@@ -652,7 +715,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-09-19-the-great-gatsby.md",
 		"/Users/motaqui/websites/eternal-sunshine/.gitignore",
 		"/Users/motaqui/websites/eternal-sunshine/eternal-sunshine.sublime-project",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_layout.scss",
 		"/Users/motaqui/websites/eternal-sunshine/index.html",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/post/suggestions-list.html",
 		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/pages/_publication.scss",
@@ -668,7 +730,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-11-04-into-the-wild.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2016-10-08-le-journal-d-anne-frank.md",
 		"/Users/motaqui/websites/eternal-sunshine/_categories/nouvelles.md",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/nouvelles/2011-01-01-l-utopie-muette.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-04-16-creating-a-universe.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-10-08-le-journal-d-anne-frank.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-09-19-the-great-gatsby.md",
@@ -689,7 +750,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-into-the-wild.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-the-catcher-in-the-rye.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2016-12-12-on-writing-well.md",
-		"/Users/motaqui/websites/eternal-sunshine/assets/_sass/core/_base.scss",
 		"/Users/motaqui/websites/eternal-sunshine/_categories/revue-livres.md",
 		"/Users/motaqui/.Trash/2018-01-03-welcome-to-jekyll.markdown",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/2018-01-03-welcome-to-jekyll.markdown",
@@ -699,7 +759,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/book.html",
 		"/Users/motaqui/websites/eternal-sunshine/css/main.scss",
 		"/Users/motaqui/websites/eternal-sunshine/_sass/pages/_about.scss",
-		"/Users/motaqui/websites/eternal-sunshine/_layouts/page.html",
 		"/Users/motaqui/websites/eternal-sunshine/categories/revue-livres.md",
 		"/Users/motaqui/websites/eternal-sunshine/categories/essais.md",
 		"/Users/motaqui/websites/eternal-sunshine/categories/nouvelles.md",
@@ -742,15 +801,7 @@
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/core/_mixines.scss",
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/main.scss",
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_utilities.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/index.html",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_base.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_settings.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_layout.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_home.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_mixines.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_publication.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/_header.scss",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/.gitignore"
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/index.html"
 	],
 	"find":
 	{
@@ -770,6 +821,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"C’est mon",
+			"C’est mon tour",
+			"– C’est mon tour",
+			".menu",
 			"categories",
 			",",
 			"if",
@@ -830,8 +885,123 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/nouvelles/2016-10-01-un-frere-&-une-soeur.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1102,
+								1083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/nouvelles/2017-11-02-toi-moi-et-elle.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/nouvelles/2018-04-09-les-voyageurs.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15136,
+								15136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9491.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/nouvelles/2011-01-01-l-utopie-muette.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],

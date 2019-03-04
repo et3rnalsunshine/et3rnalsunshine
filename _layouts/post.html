@@ -4,6 +4,13 @@ layout: default
 
 {% include post/title.html %}
 
+{% if page.audio %}
+  <div class="audio">
+    <div>* Vous pouvez aussi découvrir l’histoire sous format audio.</div>
+    <iframe height="166" scrolling="no" frameborder="no" src="{{ page.audio }}"></iframe>
+  </div>
+{% endif %}
+
 <article class="content content--publication">
   {{ content }}
 </article>

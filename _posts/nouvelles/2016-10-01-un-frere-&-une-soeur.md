@@ -2,6 +2,7 @@
 layout: post
 title:  "Un Frère & une Soeur"
 date:   2016-10-01
+audio: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584833710&color=%2362c1ca&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
 categories: nouvelles
 ---
 
