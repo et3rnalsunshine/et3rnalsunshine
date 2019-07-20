@@ -9,8 +9,35 @@
             <a href="{{ "/categories/avis-de-lecture.html" | prepend: site.baseurl }}">Avis De Lecture</a>
         </div>
     </div>
-    <a href="{{ "/publications.html" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/publications" %}menu__item--active{% endif %}">Publications</a>
-    <a href="https://www.youtube.com/channel/UCm2eiXG0mYqvbV0Lc228U7Q/videos" class="menu__item" target="_blank">Vidéos</a>
-    <a href="{{ "/a-propos.html" | prepend: site.baseurl }}" class="menu__item {% if page.url == "/a-propos" %}menu__item--active{% endif %}">À propos</a>
+
+    <a 
+      href="{{ "/publications.html" | prepend: site.baseurl }}" 
+      class="menu__item {% if page.url == "/publications" %}menu__item--active{% endif %}"
+    >
+      Publications
+    </a>
+
+    <a 
+      href="https://www.youtube.com/channel/UCm2eiXG0mYqvbV0Lc228U7Q/videos"
+      class="menu__item" 
+      target="_blank"
+    >
+      Vidéos
+    </a>
+
+    <a 
+      href="https://soundcloud.com/sophia-boris-elkerdini"
+      class="menu__item" 
+      target="_blank"
+    >
+      Audiobooks
+    </a>
+
+    <!-- <a 
+      href="{{ "/a-propos.html" | prepend: site.baseurl }}"
+      class="menu__item {% if page.url == "/a-propos" %}menu__item--active{% endif %}"
+    >
+      À propos
+    </a> -->
   </div>
 </header>
