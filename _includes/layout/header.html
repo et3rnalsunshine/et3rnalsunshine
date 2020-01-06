@@ -10,12 +10,15 @@
         </div>
     </div>
 
-    <a 
-      href="{{ "/publications.html" | prepend: site.baseurl }}" 
-      class="menu__item {% if page.url == "/publications" %}menu__item--active{% endif %}"
+    <div 
+      class="menu__item menu__item--expandable {% if page.url == "/publications" %}menu__item--active{% endif %}"
     >
-      Publications
-    </a>
+      <div class="menu__item__text">Publications</div>
+      <div class="menu__item__list">
+            <a href="{{ "/publications.html" | prepend: site.baseurl }}">Livres</a>
+            <a href="https://soundcloud.com/sophia-boris-elkerdini" target="_blank">Audiobooks</a>
+        </div>
+    </div>
 
     <a 
       href="https://www.youtube.com/channel/UCm2eiXG0mYqvbV0Lc228U7Q/videos"
@@ -25,19 +28,19 @@
       Vidéos
     </a>
 
-    <a 
+    <!-- <a 
       href="https://soundcloud.com/sophia-boris-elkerdini"
       class="menu__item" 
       target="_blank"
     >
       Audiobooks
-    </a>
+    </a> -->
 
-    <!-- <a 
-      href="{{ "/a-propos.html" | prepend: site.baseurl }}"
+    <a 
+      href="{{ "/newsletter.html" | prepend: site.baseurl }}"
       class="menu__item {% if page.url == "/a-propos" %}menu__item--active{% endif %}"
     >
-      À propos
-    </a> -->
+      Newsletter
+    </a>
   </div>
 </header>

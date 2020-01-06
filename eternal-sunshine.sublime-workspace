@@ -276,12 +276,22 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/motaqui/Downloads/Petit-présentation.srt",
+			"file": "_posts/avis-de-lecture/2019-10-31-the-haunting-of-hill-house.md",
 			"settings":
 			{
-				"buffer_size": 2985,
-				"encoding": "Western (Windows 1252)",
-				"line_ending": "Windows"
+				"buffer_size": 2909,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "2019-10-31-the-haunting-of-hill-house.md"
+			}
+		},
+		{
+			"file": "_posts/avis-de-lecture/2019-10-21-antigone.md",
+			"settings":
+			{
+				"buffer_size": 2983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -649,12 +659,16 @@
 		"/Users/motaqui/websites/eternal-sunshine",
 		"/Users/motaqui/websites/eternal-sunshine/_includes",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/layout",
-		"/Users/motaqui/websites/eternal-sunshine/_includes/partials"
+		"/Users/motaqui/websites/eternal-sunshine/_includes/partials",
+		"/Users/motaqui/websites/eternal-sunshine/_posts",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture"
 	],
 	"file_history":
 	[
-		"/Users/motaqui/Downloads/Petit-présentation.srt",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2019-08-26-anne-of-green-gables-anne-of-avonlea.md",
+		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2019-06-18-ender-s-game.md",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/layout/header.html",
+		"/Users/motaqui/Downloads/Petit-présentation.srt",
 		"/Users/motaqui/websites/eternal-sunshine/_includes/partials/a-propos.html",
 		"/Users/motaqui/websites/eternal-sunshine/index.html",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/default.html",
@@ -662,7 +676,6 @@
 		"/Users/motaqui/websites/eternal-sunshine/eternal-sunshine.sublime-project",
 		"/Users/motaqui/websites/eternal-sunshine/_layouts/category.html",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2019-06-11-lettre-au-pere.md",
-		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2019-06-18-ender-s-game.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/nouvelles/2019-04-10-train.md",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2019-06-18-ender-s-game.html",
 		"/Users/motaqui/websites/eternal-sunshine/_posts/avis-de-lecture/2018-11-28-eragon.md",
@@ -779,8 +792,7 @@
 		"/Users/motaqui/websites/eternal-sunshine/scaffolds/page.md",
 		"/Users/motaqui/websites/eternal-sunshine/scaffolds/draft.md",
 		"/Users/motaqui/websites/sophia-boris-elkerdini/src/about.html",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/post.html",
-		"/Users/motaqui/websites/sophia-boris-elkerdini/src/assets/sass/pages/_publication.scss"
+		"/Users/motaqui/websites/sophia-boris-elkerdini/src/post.html"
 	],
 	"find":
 	{
@@ -873,32 +885,61 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/motaqui/Downloads/Petit-présentation.srt",
+					"file": "_posts/avis-de-lecture/2019-10-31-the-haunting-of-hill-house.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2985,
+						"buffer_size": 2909,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								482,
-								482
+								807,
+								807
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "2019-10-31-the-haunting-of-hill-house.md",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/avis-de-lecture/2019-10-21-antigone.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2982,
+								2982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 322.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1427,8 +1468,8 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 367.0,
+	"side_bar_visible": true,
+	"side_bar_width": 421.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

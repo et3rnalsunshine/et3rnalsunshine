@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<h1 class="title">
-  <span class="title__text">{{ page.title }}</span>
-</h1>
+{% if page.title %}
+	<h1 class="title">
+	  <span class="title__text">{{ page.title }}</span>
+	</h1>
+{% endif  %}
 
 {{ content }}

@@ -1,8 +1,10 @@
-document.getElementsByClassName('menu__item--expandable')[0].addEventListener('click', onMenuToggle);
+const menuItems = document.getElementsByClassName('menu__item--expandable');
+
+for (let item of menuItems) {
+	item.addEventListener('click', onMenuToggle);
+}
+
 document.addEventListener('click', onMenuBlur);
-document.addEventListener('touchstart', function() {
-    console.log('something');
-});
 
 function onMenuBlur(event) {
   var target = bonzo(event.target);
