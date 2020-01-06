@@ -1,4 +1,4 @@
-@mixin title($font-size: 1.88rem, $font-weight: 300, $color: $blue, $margin: 6.25rem) {
+@mixin title($font-size: 1.88rem, $font-weight: 300, $color: $blue, $margin: 2.25rem) {
   $circle-width: 10px;
 
   margin-top: $margin;
