@@ -3,10 +3,10 @@ layout: page
 ---
 
 <div class="content content--writings">
-  {% assign containsNoEntry = true %}
+  {% assign hasNoEntry = true %}
   {% for post in site.posts %}
     {% if post.categories[0] == page.name %}
-      {% assign containsNoEntry = false %}
+      {% assign hasNoEntry = false %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="entry">
         <h2 class="entry__text">{{ post.title }}</h2>
         {% if post.author %}
@@ -17,7 +17,7 @@ layout: page
     {% endif %}
   {% endfor %}
 
-  {% if containsNoEntry %}
+  {% if hasNoEntry == true %}
     <div>
       There's no published stuff in this category. Come back lateur!
     </div>
